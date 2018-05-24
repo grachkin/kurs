@@ -1,3 +1,7 @@
 print("hello world")
+<<<<<<< HEAD
+print("wsem huy")
+=======
 print("hello huy")
 print("hello gggggggggggggggggggggworld")
+>>>>>>> refs/heads/master
