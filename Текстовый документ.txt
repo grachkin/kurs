@@ -1,1 +1,1 @@
-כמןסרדועסרדןערדןסטרדוסע
+print("hello my dear frend")
